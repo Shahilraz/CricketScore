@@ -1,9 +1,10 @@
 import React from 'react'
+import CricketScore from './components/CricketScore'
 
 function App() {
   return (
     <div>
-      hello
+      <CricketScore/>
     </div>
   )
 }
