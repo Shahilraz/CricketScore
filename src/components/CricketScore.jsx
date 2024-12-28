@@ -6,6 +6,7 @@ const CricketScore = () => {
   const [data, setData] = useState([]);
   const [inputData, setInputData] = useState();
   const [search, setSearch] = useState("");
+  //this 
 
   const getData = async () => {
     try {
